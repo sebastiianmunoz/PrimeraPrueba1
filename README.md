@@ -1,1 +1,1 @@
-link git pages http://www.ninoycancer.cl/
+link git pages https://sebastiianmunoz.github.io/PrimeraPrueba1/
