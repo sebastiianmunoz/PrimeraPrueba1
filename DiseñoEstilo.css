@@ -1,0 +1,195 @@
+.grilla{
+  top:10px;
+  /* margin-left: 10px;
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px; */
+  border-left: 10px;
+  border-right:10px;
+  text-align: center;
+  background-color: white;
+
+}
+
+.grilla2{
+  top:10px;
+  /*margin-left: 10px;
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px; */
+  border-left: 10px;
+  border-right:10px;
+  text-align: center;
+  background-color: blue;
+  }
+
+.grilla3{
+  top:10px;
+  /*margin-left: 10px;
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px; */
+  border-left: 10px;
+  border-right:10px;
+  text-align: center;
+  /* background-color: red; */
+  background-color: white;
+}
+
+
+.thumbnail{
+background-color: #DBDCDB;
+-webkit-border-radius:9px;
+border: 5px solid #DBDCDB;
+}
+
+
+img{
+  border-radius: 10px 10px 0px 0px;
+  height: 25px;
+
+}
+
+
+footer{
+top:10px;
+display:left;
+width: 100%;
+height: 100%;
+/* background-color:red; */
+/*margin-left: auto;
+border-left: 0px; */
+background: rgba(76,76,76,1);
+background: -moz-linear-gradient(45deg, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(102,102,102,1) 25%, rgba(71,71,71,1) 39%, rgba(44,44,44,1) 43%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(43,43,43,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(76,76,76,1)), color-stop(12%, rgba(89,89,89,1)), color-stop(25%, rgba(102,102,102,1)), color-stop(39%, rgba(71,71,71,1)), color-stop(43%, rgba(44,44,44,1)), color-stop(51%, rgba(0,0,0,1)), color-stop(60%, rgba(17,17,17,1)), color-stop(76%, rgba(43,43,43,1)), color-stop(91%, rgba(28,28,28,1)), color-stop(100%, rgba(19,19,19,1)));
+background: -webkit-linear-gradient(45deg, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(102,102,102,1) 25%, rgba(71,71,71,1) 39%, rgba(44,44,44,1) 43%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(43,43,43,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+background: -o-linear-gradient(45deg, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(102,102,102,1) 25%, rgba(71,71,71,1) 39%, rgba(44,44,44,1) 43%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(43,43,43,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(102,102,102,1) 25%, rgba(71,71,71,1) 39%, rgba(44,44,44,1) 43%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(43,43,43,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+background: linear-gradient(45deg, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(102,102,102,1) 25%, rgba(71,71,71,1) 39%, rgba(44,44,44,1) 43%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(43,43,43,1) 76%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );
+Copy text
+color: white;
+}
+
+.grilafooter{
+  width: 20%;
+  height: 20%;
+}
+
+ h1 {
+
+  font-size: 35px;
+  text-align: center;
+  color: white;
+
+}
+
+
+h2{
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+h3{
+  font-size: 20px;
+  text-align: left;
+  color: black;
+}
+
+h4{
+  font-size: 17px;
+  text-align: left;
+  color: white;
+
+}
+
+.jumbotron {
+    text-align: center;
+background: rgba(114,167,203,1);
+background: -moz-linear-gradient(-45deg, rgba(114,167,203,1) 16%, rgba(114,167,203,1) 36%, rgba(69,124,165,1) 59%, rgba(69,124,165,1) 60%);
+background: -webkit-gradient(left top, right bottom, color-stop(16%, rgba(114,167,203,1)), color-stop(36%, rgba(114,167,203,1)), color-stop(59%, rgba(69,124,165,1)), color-stop(60%, rgba(69,124,165,1)));
+background: -webkit-linear-gradient(-45deg, rgba(114,167,203,1) 16%, rgba(114,167,203,1) 36%, rgba(69,124,165,1) 59%, rgba(69,124,165,1) 60%);
+background: -o-linear-gradient(-45deg, rgba(114,167,203,1) 16%, rgba(114,167,203,1) 36%, rgba(69,124,165,1) 59%, rgba(69,124,165,1) 60%);
+background: -ms-linear-gradient(-45deg, rgba(114,167,203,1) 16%, rgba(114,167,203,1) 36%, rgba(69,124,165,1) 59%, rgba(69,124,165,1) 60%);
+background: linear-gradient(135deg, rgba(114,167,203,1) 16%, rgba(114,167,203,1) 36%, rgba(69,124,165,1) 59%, rgba(69,124,165,1) 60%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#72a7cb', endColorstr='#457ca5', GradientType=1 );
+color: white;
+  }
+
+.colorearGrillaQuienesSomos{
+  background-color: silver;
+/* border: 10px 10px 10px 10px; */
+}
+
+.grillagigante{
+background-color:white;
+/* height: 50%; */
+  /* padding:10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.blogShort{ border-bottom:1px solid #ddd;}
+.add{background: #333; padding: 10%; height: 300px;}
+
+.nav-sidebar {
+    width: 100%;
+    padding: 8px 0;
+    border-right: 1px solid #ddd;
+}
+.nav-sidebar a {
+    color: #333;
+    -webkit-transition: all 0.08s linear;
+    -moz-transition: all 0.08s linear;
+    -o-transition: all 0.08s linear;
+    transition: all 0.08s linear;
+}
+.nav-sidebar .active a {
+    cursor: default;
+    background-color: #34ca78;
+    color: #fff;
+}
+.nav-sidebar .active a:hover {
+    background-color: #37D980;
+}
+.nav-sidebar .text-overflow a,
+.nav-sidebar .text-overflow .media-body {
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.btn-blog {
+    color: #ffffff;
+    background-color: #37d980;
+    border-color: #37d980;
+    border-radius:0;
+    margin-bottom:10px
+}
+.btn-blog:hover,
+.btn-blog:focus,
+.btn-blog:active,
+.btn-blog.active,
+.open .dropdown-toggle.btn-blog {
+    color: white;
+    background-color:#34ca78;
+    border-color: #34ca78;
+}
+ /* h2{color:#34ca78;}
+ .margin10{margin-bottom:10px; margin-right:10px;} */
+.ordenPaginaNostros{
+text-align: left;
+}
